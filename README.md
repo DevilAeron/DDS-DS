@@ -2,6 +2,12 @@
 
 ## Motivation: 
 According to the National Highway Traffic Safety Administration, every year about 100,000 police-reported crashes involve drowsy driving. These crashes result in more than 1,550 fatalities and 71,000 injuries. The real number may be much higher, however, as it is difficult to determine whether a driver was drowsy at the time of a crash. So, we tried to build a system, that detects whether a person is drowsy and alert him.
+This web-app is a one-page application for making it convenient and accessible to the user.
+
+## Landing Page:
+![image](https://user-images.githubusercontent.com/49195734/134022350-519e7522-0d02-4b90-95c3-678f2236b36f.png)
+
+
 
 ## Working Details: 
 
@@ -35,6 +41,8 @@ def mouth_aspect_ratio(mouth):
 	return MAR
 ```
 <b>Note: Learn more about dlib</b> <a href = "http://dlib.net/">here.</a>
+
+
 
 ### Future Scope: 
 We are looking to convert this into an Android App which will be more portable and easily accessible. Also, we faced some issues while hosting this on Heroku. Any leads on these will be extremely helpful. 

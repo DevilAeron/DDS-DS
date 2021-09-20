@@ -7,6 +7,10 @@ This web-app is a one-page application for making it convenient and accessible t
 ## Landing Page:
 ![image](https://user-images.githubusercontent.com/49195734/134022350-519e7522-0d02-4b90-95c3-678f2236b36f.png)
 
+## Video Upload Button:
+![image](https://user-images.githubusercontent.com/49195734/134024675-2eb7268e-94fc-492a-92f3-9d6bec1a531a.png)
+
+
 
 <img src = "https://user-images.githubusercontent.com/49195734/134022820-9ac5e5b8-ee5e-401c-b939-74bbd258161e.png" width = "350"><img src = "https://user-images.githubusercontent.com/49195734/134022963-2c86542f-7132-423e-bbbc-fff9f2548d83.png" width = "325"><img src = "https://user-images.githubusercontent.com/49195734/134023183-7257e83f-2ccd-433f-8b41-48c8aa330755.png" width = "325">
 
